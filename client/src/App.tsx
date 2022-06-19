@@ -17,7 +17,7 @@ function App() {
     const fetchData = async () => {
       setIsLoading(true);
       await axios
-        .get('http://localhost:8080/')
+        .get('https://shan-crypto.herokuapp.com/')
         .then((response) => setCurrencies(response.data))
         .catch((error) => setErrorMsg({ msg: error.message, isError: true }));
       setIsLoading(false);

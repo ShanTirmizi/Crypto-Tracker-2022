@@ -34,7 +34,7 @@ const CurrencyChart = (props: ChartDataProps) => {
   const fetchHistoricalData = async () => {
     setIsLoading(true);
     await axios
-      .get(`http://localhost:8080/${id}`)
+      .get(`https://shan-crypto.herokuapp.com/${id}`)
       .then((response) => setChartData(response.data.prices))
       .catch((error) => setErrorMsg({ msg: error.message, isError: true }));
     setIsLoading(false);
