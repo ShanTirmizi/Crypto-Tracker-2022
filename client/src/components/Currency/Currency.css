@@ -1,0 +1,44 @@
+.currency__table-container-data {
+  background-color: #182039;
+  margin: 10px 0;
+  border-top: 5px solid #182039;
+  border-bottom: 5px solid #b37382;
+}
+
+.currency__data {
+  color: #f4f4f7;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.currency__data.name a {
+  display: grid;
+  grid-template-columns: 0.1fr 0.5fr;
+  grid-gap: 10px;
+  align-items: center;
+  justify-content: center;
+  text-decoration: underline;
+  color: #f4f4f7;
+}
+
+.currency__data.name img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.currency__data.watchlist button {
+  background-color: transparent;
+  border: 3px solid #b37382;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #f4f4f7;
+  cursor: pointer;
+  font-size: 0.8rem;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  width: 80%;
+  height: 100%;
+}
