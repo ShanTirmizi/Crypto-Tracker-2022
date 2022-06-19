@@ -27,6 +27,14 @@ npm i
 ```bash
 npm start
 ```
+## Tech Requirements
+
+| Requirements  | Accomplished |
+| ------------- | ------------- |
+| ReactJs | :heavy_check_mark: |
+| TypeScript  | :heavy_check_mark:  |
+| ESLint + Prettier  | :heavy_check_mark: |
+
 ## Main Requirements
 
 | Requirements  | Accomplished |
