@@ -66,4 +66,5 @@ npm start
 - Created a context to have a global state and avoid prop drilling
 - Added test
 - Created a login functionality
+- Added number and percentage formatting all of the data
 
