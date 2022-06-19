@@ -8,6 +8,10 @@ The back end is deployed on heroku and the front end is deployed on Netlify.
 
 https://shan-crypto-2022.netlify.app/
 
+## Website walkthrough video
+
+https://drive.google.com/file/d/1xf7mEjAxKuwKLseZJPML-ijTykD2Xyl0/view
+
 ## Installation Client 
 
 ```bash
