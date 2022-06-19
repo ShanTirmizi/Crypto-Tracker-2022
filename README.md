@@ -45,6 +45,6 @@ npm start
 | Host the Project on Heroku or another similar service | :heavy_check_mark: |
 | Provide a separate page to provide detailed information on the Currency when selected  | :heavy_check_mark:  |
 | Crypto Watchlist (Data stored in state)  | :heavy_check_mark: |
-| Strong coverage with automated testing (Using Jest or any JS Testing Framework) | :heavy_check_mark:  |
+| Strong coverage with automated testing (Using Jest or any JS Testing Framework) |   |
 | Create an Express API to handle all API calls instead of using them on the frontend | :heavy_check_mark: |
-| If you choose to make an Express API, enable authentication using your chosen method so your API is more secure. However, make this your last priority should you get to this stage | :heavy_check_mark:  |
+| If you choose to make an Express API, enable authentication using your chosen method so your API is more secure. However, make this your last priority should you get to this stage |  |
