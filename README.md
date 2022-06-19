@@ -56,3 +56,10 @@ npm start
 | Strong coverage with automated testing (Using Jest or any JS Testing Framework) |   |
 | Create an Express API to handle all API calls instead of using them on the frontend | :heavy_check_mark: |
 | If you choose to make an Express API, enable authentication using your chosen method so your API is more secure. However, make this your last priority should you get to this stage |  |
+
+## If I had more time I would have
+- Created more components (espically to free up the Homepage.tsx componenet ) eg: put pagination into a seperate componenet, had a seperate component just for the table and etc.
+- Created a context to have a global state and avoid prop drilling
+- Added test
+- Created a login functionality
+
